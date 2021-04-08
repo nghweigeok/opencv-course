@@ -2,4 +2,4 @@
 
 Notebooks for the course "Introduction to OpenCV".
 
-Tutorial 1: https://www.youtube.com/watch?v=4eHurXUGGaM
+Tutorial 1: https://blog.finxter.com/opencv-working-with-images/
