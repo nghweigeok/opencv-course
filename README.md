@@ -1,6 +1,6 @@
 # opencv-course
 
-Tutorial supplements for the Finxter OpenCV course: OpenCV basics, face detection, object detection, object tracking.
+Code for the Finxter OpenCV course: OpenCV basics, face detection, object detection, object tracking.
 
 Tutorial 1: https://blog.finxter.com/opencv-working-with-images/
 
